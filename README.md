@@ -1,0 +1,68 @@
+# Jesse McCartney – Beautiful Soul Official Video
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.81] I don't want another pretty face
+[00:12.56] I don't want just anyone to hold
+[00:15.28] I don't want my love to go to waste
+[00:18.19] I want you and your beautiful soul
+[00:35.19] 
+[00:27.37] I know that you are something special
+[00:32.60] To you I'd be always faithful
+[00:37.93] I want to be what you always needed
+[00:43.31] Then I hope you'll see the heart in me
+[01:02.31] 
+[00:47.01] I don't want another pretty face
+[00:49.78] I don't want just anyone to hold
+[00:52.30] I don't want my love to go to waste
+[00:55.35] I want you and your beautiful soul
+[00:58.55] You're the one I wanna chase
+[01:00.95] You're the one I wanna hold
+[01:03.15] I won't let another minute go to waste
+[01:05.98] I want you and your beautiful soul
+[01:13.62] Your beautiful soul, yeah
+[01:26.12] 
+[01:20.52] You might need time to think it over
+[01:26.13] But I'm just fine moving forward
+[01:31.48] I'll ease your mind
+[01:34.53] If you give me the chance
+[01:36.00] I will never make you cry
+[01:38.62] Come on, let's try
+[01:47.62] 
+[01:40.43] And I don't want another pretty face
+[01:43.28] I don't want just anyone to hold
+[01:45.87] I don't want my love to go to waste
+[01:48.75] I want you and your beautiful soul
+[01:51.89] You're the one I wanna chase
+[01:54.63] You're the one I wanna hold
+[01:56.57] I won't let another minute go to waste
+[01:59.46] I want you and your beautiful soul
+[02:16.46] 
+[02:12.85] Am I crazy for wanting you?
+[02:16.14] Maybe do you think you could want me too?
+[02:18.75] I don't wanna waste your time
+[02:23.45] Do you see things the way I do?
+[02:26.70] I just wanna know that you feel it too
+[02:29.56] There is nothing left to hide
+[02:44.06] 
+[02:33.97] I don't want another pretty face
+[02:36.51] I don't want just anyone to hold
+[02:39.28] I don't want my love to go to waste
+[02:42.05] I want you and your beautiful soul
+[02:45.31] You're the one I wanna chase
+[02:47.93] You're the one I wanna hold
+[02:49.91] I won't let another minute go to waste
+[02:52.87] I want you and your soul
+[03:04.87] 
+[02:55.59] I don't want another pretty face
+[02:58.09] I don't want just anyone to hold
+[03:00.69] I don't want my love to go to waste
+[03:03.52] I want you and your beautiful soul
+[03:20.52] 
+[03:09.43] Oh
+[03:11.48] Beautiful soul, yeah
+[03:18.25] Ooh, yeah
+[03:27.54] Your beautiful soul
+[03:30.80] Yeah
+```
