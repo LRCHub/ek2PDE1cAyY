@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Soul Official Video",
+  "base_artist": "Jesse McCartney",
+  "createdAt": "2025-12-02T07:55:41.320120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brave and Beautiful Soul",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/01_Brave_and_Beautiful_Soul_Europe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/02_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Soul_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "beautiful soul",
+      "artist": "jesse mccartney",
+      "has_synced": true,
+      "path": "select/05_beautiful_soul_jesse_mccartney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "beautiful soul",
+      "artist": "jesse mccartney",
+      "has_synced": true,
+      "path": "select/06_beautiful_soul_jesse_mccartney.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Katy J Pearson",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Soul_Katy_J_Pearson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/08_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Soul (Album Version)",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Soul_(Album_Version)_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse Mccartney",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Soul_Jesse_Mccartney.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/12_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Michael Patrick Kelly",
+      "has_synced": true,
+      "path": "select/13_Beautiful_Soul_Michael_Patrick_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "KIDZ BOP Kids",
+      "has_synced": false,
+      "path": "select/14_Beautiful_Soul_KIDZ_BOP_Kids.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Kidz Bop",
+      "has_synced": false,
+      "path": "select/15_Beautiful_Soul_Kidz_Bop.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": true,
+      "path": "select/16_Beautiful_Soul_Jesse_McCartney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Soul",
+      "artist": "Jesse McCartney",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Soul_Jesse_McCartney.txt"
+    }
+  ]
+}
